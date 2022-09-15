@@ -1,0 +1,22 @@
+body {
+   background-color: rgba(208, 247, 203, 0.493);
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ #descricaoSobreMim{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+h2 {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 2em;
+ }
+
+.perso-1{
+   background-color: rgba(142, 142, 243, 0.555);
+   font-size: 18px;
+}
+
